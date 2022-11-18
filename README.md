@@ -9,4 +9,4 @@ Grub version 2.0
 Support me 
 <a href="https://paytm.me/v-2r8HG">PayTm: 7809518625</a>
 <br>
-<img src="images/Paytm Scanner.jpeg">
+<img src="images/Paytm Scanner.jpeg" width=20>
