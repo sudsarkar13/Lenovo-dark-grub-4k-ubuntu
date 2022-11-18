@@ -1,6 +1,6 @@
 # Lenovo-dark-grub-4k-ubuntu
 <head>
-<link rel="stylesheet" href="PayTm.css">
+<link rel="stylesheet" href="css/PayTm.css">
 </head>
 Grub theme for Lenovo users
 <br>
