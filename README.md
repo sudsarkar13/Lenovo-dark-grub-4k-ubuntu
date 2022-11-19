@@ -10,4 +10,4 @@ Support me
 <a href="https://paytm.me/v-2r8HG">PayTm: 7809518625</a>
 <br>
 <br>
-<img src="images/Paytm Scanner.jpeg" width=50% height=50% class="paytm">
+<img src="images/Paytm Scanner.png" width=50% height=50% class="paytm">
