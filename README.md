@@ -13,3 +13,9 @@ Support me
 <div>
 <img src="images/Paytm Scanner.png" width=50% height=50% class="paytm">
 </div>
+<br>
+<div>
+<pre>
+    <code>sudo add-apt-repository ppa:danielrichter2007/grub-customizer</code>
+</pre>
+</div>
