@@ -2,6 +2,9 @@
 <head>
 <link rel="stylesheet" href="css/PayTm.css">
 </head>
+<body>
+<h3 align=centre><b>PREVIEW IMAGE OF GRUB</b></h3>
+<br>
 Grub theme for Lenovo users
 <br>
 Grub version 2.0
@@ -72,3 +75,4 @@ Support me
 </div>
 
 <p>And that’s all you need to know about installing and removing Grub Customizer on an Ubuntu.</p>
+</body>
