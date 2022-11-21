@@ -22,7 +22,6 @@ Open the terminal with the Ctrl+Alt+T shortcut in Ubuntu.
 <div>
 <pre>
     <code>sudo add-apt-repository ppa:danielrichter2007/grub-customizer</code>
-    <br>
     <code>sudo apt install grub-customizer</code>
 </pre>
 </div>
