@@ -4,6 +4,7 @@
 </head>
 <body>
 <h3 align="center"><b>PREVIEW IMAGE OF GRUB</b></h3>
+<img src="images/desg-1.png" align="center">
 <br>
 Grub theme for Lenovo users
 <br>
@@ -14,7 +15,7 @@ Support me
 <br>
 <br>
 <div>
-<img src="images/Paytm Scanner.png" width=50% height=50% class="paytm">
+<img src="images/Paytm Scanner.png" align="center" width=50% height=50% class="paytm">
 </div>
 <br>
 <h2>How to install Grub Customizer</h2>
@@ -50,7 +51,7 @@ Support me
 
 <p>Since you are indirectly modifying configuration files, you need to have elevated privileges to use this application. You’ll be asked to enter your account password.</p>
 
-<img src="images/img-4.png">
+<img src="images/img-4.png" align="center">
 <br>
 <p>Once opened, you’ll see an interface similar to this:</p>
 
