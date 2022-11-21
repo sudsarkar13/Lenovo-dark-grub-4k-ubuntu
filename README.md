@@ -18,13 +18,16 @@ Support me
 <br>
 <p>There is an official PPA available from the developer of Grub Customizer. You can use it to install the latest version in any Ubuntu version. Open the terminal with the Ctrl+Alt+T shortcut in Ubuntu.</p>
 <br>
+<b>Step-1:</b>
 <div>
 <pre>
     <code>sudo add-apt-repository ppa:danielrichter2007/grub-customizer</code>
 </pre>
 </div>
+<b>Step-2:</b>
 <div>
 <pre>
     <code>sudo apt install grub-customizer</code>
 </pre>
 </div>
+<h3>How to remove Grub Customizer</h3>
