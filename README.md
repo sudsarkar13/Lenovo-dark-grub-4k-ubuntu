@@ -4,7 +4,7 @@
 </head>
 <body>
 <h3 align="center"><b>PREVIEW IMAGE OF GRUB</b></h3>
-<img src="images/desg-1.png" align="center">
+<img src="images/desg-1.png" align="center" width=70% height=70%>
 <br>
 Grub theme for Lenovo users
 <br>
