@@ -14,7 +14,7 @@ Support me
 <img src="images/Paytm Scanner.png" width=50% height=50% class="paytm">
 </div>
 <br>
-> How to install Grub Customizer
+# How to install Grub Customizer
 <br>
 There is an official PPA available from the developer of Grub Customizer. You can use it to install the latest version in any Ubuntu version.
 Open the terminal with the Ctrl+Alt+T shortcut in Ubuntu.
