@@ -43,7 +43,7 @@ Support me
 <br>
 <p>And that’s about it. Wait for a few seconds and you’ll have Grub Customizer installed.</p>
 <br>
-<p>Open the Grub Customizer application from the app menu(9 dots around the left corner) <b>then</b> search for Grub Customizer</p>
+<p>Open the Grub Customizer application from the app menu(9 dots around the left corner) <b>then</b> search for Grub Customizer.</p>
 <br>
 <p>Since you are indirectly modifying configuration files, you need to have elevated privileges to use this application. You’ll be asked to enter your account password.</p>
 <br>
