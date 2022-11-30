@@ -8,14 +8,16 @@
 <br>
 Grub theme for Lenovo users
 <br>
+'''
 Grub version 2.0
 <br>
 Support me 
 <a href="https://paytm.me/v-2r8HG">PayTm: 7809518625</a>
+'''
 <br>
 <br>
 <div>
-<img src="images/Paytm Scanner.png" align="center" width=45% height=45% class="paytm">
+<img src="images/Paytm Scanner.png" align="center" width=40% height=40% class="paytm">
 </div>
 <br>
 <h2>How to install Grub Customizer</h2>
