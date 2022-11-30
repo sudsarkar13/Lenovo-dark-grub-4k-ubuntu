@@ -15,7 +15,7 @@ Support me
 <br>
 <br>
 <div>
-<img src="images/Paytm Scanner.png" align="center" width=50% height=50% class="paytm">
+<img src="images/Paytm Scanner.png" align="center" width=45% height=45% class="paytm">
 </div>
 <br>
 <h2>How to install Grub Customizer</h2>
