@@ -8,7 +8,7 @@
 <br>
 Grub theme for Lenovo users
 <br>
-Grub version 2.04 +
+Grub version 2.04 and above
 <br>
 Support me 
 <a href="https://paytm.me/v-2r8HG">PayTm: 7809518625</a>
