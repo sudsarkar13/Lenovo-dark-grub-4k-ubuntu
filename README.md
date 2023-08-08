@@ -64,14 +64,14 @@ Support me
 <b>Step-1:</b>
 <div>
 <pre>
-    <code>sudo add-apt-repository ppa:danielrichter2007/grub-customizer</code>
+    <code>sudo add-apt-repository --remove ppa:danielrichter2007/grub-customizer</code>
 </pre>
 </div>
 <p>If you had added the PPA, you should remove the PPA as well.</p>
 <b>Step-2:</b>
 <div>
 <pre>
-    <code>sudo apt install grub-customizer</code>
+    <code>sudo apt remove grub-customizer</code>
 </pre>
 </div>
 
